@@ -46,7 +46,3 @@
 - **35.txt** modulos.xml Nombre de los módulos de menos de 5 horas semanales
 - **36.txt** modulos.xml Nombre de los módulos que se imparten en el primer curso de ASIR
 - **37.txt** modulos.xml Horas semanales de los módulos de más de 3 horas semanales (4, 5, 5)
-
-
-#zip -r system.zip xpath-python/
-#https://oscarmaestre.github.io/lenguajes_marcas/ejercicios/xpath/anexo_ejercicios_xpath.html
