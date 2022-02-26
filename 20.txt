@@ -1,0 +1,1 @@
+#20 inventario.xml Extraer el peso (nodo) del elemento cuyo codigo sea AAA-111

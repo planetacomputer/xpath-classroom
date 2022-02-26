@@ -1,0 +1,1 @@
+#17 inventario.xml Extraer el peso del ultimo producto.. (nodo)

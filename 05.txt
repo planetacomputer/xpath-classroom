@@ -1,0 +1,1 @@
+#5 books.xml Llista dels noms (contingut de l'element) dels autors.

@@ -1,0 +1,1 @@
+#14.txt books.xml The following example selects all the price nodes with a price higher than 35

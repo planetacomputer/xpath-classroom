@@ -1,0 +1,3 @@
+#13.txt books.xml The following example selects the text from all the price nodes:
+
+/bookstore/book/price[text()]

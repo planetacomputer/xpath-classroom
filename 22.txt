@@ -1,0 +1,1 @@
+#22 inventario.xml  Extraer el codigo (texto) de los productos cuyo nombre sea «Monitor»

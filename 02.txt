@@ -1,0 +1,1 @@
+#2 paisos.xml Llista dels noms (contingut de l'element) de les capitals.

@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<paisos>
+    <pais continent="Europa">
+        <nom codi="ES">Espanya</nom>
+        <capital hab="3266126">Madrid</capital>
+        <poblacio any="2017">46528024</poblacio>
+        <moneda simbol="€">euro</moneda>
+        <superficie unitat="km2">505990</superficie>
+        <idiomes>
+            <idioma>espanyol</idioma>
+            <idioma>català</idioma>
+            <idioma>basc</idioma>
+            <idioma>gallec</idioma>
+        </idiomes>
+        <ciutat hab="1636762">Barcelona</ciutat>
+        <ciutat hab="794288">València</ciutat>
+        <ciutat hab="688592">Sevilla</ciutat>
+        <ciutat hab="674997">Saragossa</ciutat>
+    </pais>
+    <pais continent="Europa">
+        <nom codi="FR">França</nom>
+        <capital hab="2187526">París</capital>
+        <poblacio any="2016">66628000</poblacio>
+        <moneda simbol="€">euro</moneda>
+        <superficie unitat="km2">643801</superficie>
+        <idiomes>
+            <idioma>francès</idioma>
+            <idioma>català</idioma>
+            <idioma>basc</idioma>
+            <idioma>bretó</idioma>
+            <idioma>occità</idioma>
+        </idiomes>
+        <ciutat hab="855393">Marsella</ciutat>
+        <ciutat hab="506615">Lió</ciutat>
+        <ciutat hab="482738">Tolosa de Llenguadoc</ciutat>
+    </pais>
+    <pais continent="Europa">
+        <nom codi="IT">Itàlia</nom>
+        <capital hab="2872800">Roma</capital>
+        <poblacio any="2016">60599936</poblacio>
+        <moneda simbol="€">euro</moneda>
+        <superficie unitat="km2">301338</superficie>
+        <idiomes>
+            <idioma>italià</idioma>
+        </idiomes>
+        <ciutat hab="1351562">Milà</ciutat>
+        <ciutat hab="972212">Nàpols</ciutat>
+        <ciutat hab="882523">Torí</ciutat>
+    </pais>
+    <pais continent="Àfrica">
+        <nom codi="MA">Marroc</nom>
+        <capital hab="1628000">Rabat</capital>
+        <poblacio any="2018">36029138</poblacio>
+        <moneda simbol="Dh">dirham</moneda>
+        <superficie unitat="km2">446550</superficie>
+        <idiomes>
+            <idioma>marroquí</idioma>
+        </idiomes>
+        <ciutat hab="4370000">Casablanca</ciutat>
+        <ciutat hab="1112072">Fes</ciutat>
+        <ciutat hab="947952">Tànger</ciutat>
+        <ciutat hab="928850">Marràqueix</ciutat>
+    </pais>
+    <pais continent="Àfrica">
+        <nom codi="EG">Egipte</nom>
+        <capital hab="9293612">El Caire</capital>
+        <poblacio any="2017">94798827</poblacio>
+        <moneda simbol="E£">lliura egípcia</moneda>
+        <superficie unitat="km2">1010407</superficie>
+        <idiomes>
+            <idioma>àrab</idioma>
+        </idiomes>
+        <ciutat hab="4870000">Alexandria</ciutat>
+        <ciutat hab="3021542">Gizeh</ciutat>
+        <ciutat hab="485342">Suez</ciutat>
+    </pais>
+    <pais continent="Àsia">
+        <nom codi="IN">Índia</nom>
+        <capital hab="249998">Nova Delhi</capital>
+        <poblacio any="2018">1.349217956</poblacio>
+        <moneda simbol="₹">rupia índia</moneda>
+        <superficie unitat="km2">3287263</superficie>
+        <idiomes>
+            <idioma>hindi</idioma>
+        </idiomes>
+        <ciutat hab="26495000">Delhi</ciutat>
+        <ciutat hab="12442373">Bombai</ciutat>
+        <ciutat hab="10535000">Bàngalor</ciutat>
+    </pais>
+    <pais continent="Àsia">
+        <nom codi="JP">Japó</nom>
+        <capital hab="13942856">Tòquio</capital>
+        <poblacio any="2015">127110047</poblacio>
+        <moneda simbol="¥">ien</moneda>
+        <superficie unitat="km2">377972</superficie>
+        <idiomes>
+            <idioma>japonès</idioma>
+        </idiomes>
+        <ciutat hab="1592657">Fukuoka</ciutat>
+        <ciutat hab="1522944">Kobe</ciutat>
+        <ciutat hab="1466264">Kyoto</ciutat>
+        <ciutat hab="1306589">Hiroshima</ciutat>
+    </pais>
+    <pais continent="Amèrica">
+        <nom codi="AR">Argentina</nom>
+        <capital hab="3063728">Buenos Aires</capital>
+        <poblacio any="2019">44938712</poblacio>
+        <moneda simbol="Arg$">peso argentí</moneda>
+        <superficie unitat="km2">2.780.400</superficie>
+        <idiomes>
+            <idioma>espanyol</idioma>
+        </idiomes>
+        <ciutat hab="1329604">Córdoba</ciutat>
+        <ciutat hab="1193605">Rosario</ciutat>
+    </pais>
+    <pais continent="Amèrica">
+        <nom codi="CA">Canadà</nom>
+        <capital hab="934243">Ottawa</capital>
+        <poblacio any="2015">35702707</poblacio>
+        <moneda simbol="C$">dòlar canadenc</moneda>
+        <superficie unitat="km2">9984670</superficie>
+        <idiomes>
+            <idioma>francès</idioma>
+            <idioma>anglès</idioma>
+        </idiomes>
+        <ciutat hab="2731571">Toronto</ciutat>
+        <ciutat hab="1704694">Mont-real</ciutat>
+    </pais>
+    <pais continent="Oceania">
+        <nom codi="NZ">Nova Zelanda</nom>
+        <capital hab="418500">Wellington</capital>
+        <poblacio any="2018">4885300</poblacio>
+        <moneda simbol="NZ$">dòlar neozelandès</moneda>
+        <superficie unitat="km2">268021</superficie>
+        <idiomes>
+            <idioma>anglès</idioma>
+            <idioma>maorí</idioma>
+        </idiomes>
+        <ciutat hab="1467800">Auckland</ciutat>
+    </pais>
+    <pais continent="Oceania">
+        <nom codi="AU">Austràlia</nom>
+        <capital hab="381488">Canberra</capital>
+        <poblacio any="2016">23401892</poblacio>
+        <moneda simbol="AU$">dòlar australià</moneda>
+        <superficie unitat="km2">7692024</superficie>
+        <idiomes>
+            <idioma>anglès</idioma>
+        </idiomes>
+        <ciutat hab="4840600">Sydney</ciutat>
+        <ciutat hab="4529500">Melbourne</ciutat>
+    </pais>
+    <pais continent="Europa">
+        <nom codi="BE">Bèlgica</nom>
+        <capital>Brussel·les</capital>
+        <poblacio any="2014">11150516</poblacio>
+        <moneda simbol="€">euro</moneda>
+        <superficie unitat="km2">30528</superficie>
+        <idiomes>
+            <idioma>neerlandès</idioma>
+            <idioma>francès</idioma>
+            <idioma>alemany</idioma>
+        </idiomes>
+        <ciutat hab="523248">Anvers</ciutat>
+        <ciutat hab="262219">Gant</ciutat>
+        <ciutat hab="118053">Bruges</ciutat>
+    </pais>
+    <pais continent="Amèrica">
+        <nom codi="US">Estats Units d'Amèrica</nom>
+        <capital hab="672228">Washington DC</capital>
+        <poblacio any="2017">325145963</poblacio>
+        <moneda simbol="US$">dòlar dels Estats Units</moneda>
+        <superficie unitat="km2">9826675</superficie>
+        <idiomes>
+            <idioma>anglès</idioma>
+        </idiomes>
+        <ciutat hab="8398748">Nova York</ciutat>
+        <ciutat hab="3976322">Los Angeles</ciutat>
+        <ciutat hab="2722389">Chicago</ciutat>
+    </pais>
+    <pais continent="Europa">
+        <nom codi="UK">Regne Unit</nom>
+        <capital hab="8908081">Londres</capital>
+        <poblacio any="2016">65102385</poblacio>
+        <moneda simbol="£">lliura esterlina</moneda>
+        <superficie hab="km2">242495</superficie>
+        <idiomes>
+            <idioma>anglès</idioma>
+        </idiomes>
+        <ciutat hab="1137100">Birmingham</ciutat>
+        <ciutat hab="626410">Glasgow</ciutat>
+        <ciutat hab="547627">Manchester</ciutat>
+        <ciutat hab="513210">Edimburg</ciutat>
+    </pais>
+    <pais continent="Europa">
+        <nom codi="TR">Turquia</nom>
+        <capital hab="5503985">Ankara</capital>
+        <poblacio any="2018">82003882</poblacio>
+        <moneda simbol="TL">lira turca</moneda>
+        <superficie unitat="km2">783562</superficie>
+        <idiomes>
+            <idioma>turc</idioma>
+        </idiomes>
+        <ciutat hab="14657434">Ístambul</ciutat>
+        <ciutat hab="4320519">Esmirna</ciutat>
+        <ciutat hab="2426356">Antalya</ciutat>
+    </pais>
+</paisos>

@@ -1,0 +1,1 @@
+#25 cuentabancaria.xml Extraer un listado sin etiquetas de todas las monedas usadas por los distintos fondos

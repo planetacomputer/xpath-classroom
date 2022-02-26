@@ -1,0 +1,5 @@
+#10.txt instituto.xml Siglas por las que se conocen los Ciclos Formativos:
+
+# id="ASIR"
+# id="DAW"
+# id="SMR"

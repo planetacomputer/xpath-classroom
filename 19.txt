@@ -1,0 +1,1 @@
+#19 inventario.xml Extraer el penúltimo codigo

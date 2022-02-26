@@ -1,0 +1,1 @@
+#18 inventario.xml Extraer las distintas unidades en las que se han almacenado los pesos (texto)

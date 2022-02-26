@@ -1,0 +1,1 @@
+#15 inventario.xml Extraer todos los elementos peso (etiqueta incluida).

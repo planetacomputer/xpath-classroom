@@ -1,0 +1,1 @@
+#21 inventario.xml Extraer el nombre (nodos) de los productos que hayan puesto el peso en gramos.

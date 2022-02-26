@@ -1,0 +1,1 @@
+#27 cuentabancaria.xml Extraer toda la información de los fondos que usen «euros» por un valor inferior a 2500
