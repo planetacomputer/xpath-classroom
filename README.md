@@ -1,6 +1,6 @@
 ![Reptes PowerShell  =150px](img/xpath-logo.png)
 ## RESOL AQUESTS REPTES, LLEGEIX LES INSTRUCCIONS DETALLADES ALS COMENTARIS DEL FITXER:
- - **01.txt** paisos.xml Llista dels nodes (elements) de les capitals.
+ - **01.txt** paisos.xml Llista dels nodes (elements) de les capitals. [1 pt]
  - **02.txt** paisos.xml Llista dels noms (contingut de l'element) de les capitals.
  - **03.txt** paisos.xml Llista dels continents dels països continguts en el document.
  - **04.txt** books.xml Llista dels nodes (elements) dels autors.
