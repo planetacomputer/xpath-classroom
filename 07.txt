@@ -1,2 +1,1 @@
 #7 instituto.xml Nodo con el nombre del instituto
-//ies/nombre
